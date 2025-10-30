@@ -81,7 +81,8 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=apexyash11&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=apexyash11&theme=tokyonight&date=20251030" alt="GitHub Streak" 
+       onerror="this.onerror=null; this.src='https://github-readme-streak-stats.vercel.app?user=apexyash11&theme=tokyonight';" />
 </p>
 
 <p align="center">
