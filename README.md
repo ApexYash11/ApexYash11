@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **LLMs and AI Agents**
 
-- 📫 How to reach me **yashmaheshwari8983@gmail.com**
+- 📫 How to reach me **yashmaheshwari2405@gmail.com**
 
 - ⚡ Fun fact **I am a chill guy**
 
