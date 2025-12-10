@@ -1,56 +1,89 @@
-<h1 align="center">Hi 👋, I'm Yash Maheshwari</h1>
-<h3 align="center">A passionate Machine Learning and LLM enthusiast from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Building+Agentic+AI+Systems;LLM+Enthusiast+%26+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on [TradeguardAI](https://github.com/ApexYash11/TradeguardAI)
-- 🌱 I’m currently learning **Langchain, Langraph, Agentic AI**
-- 🤝 I’m looking for help with [TradeguardAI](https://github.com/ApexYash11/TradeguardAI)
-- 💬 Ask me about **LLMs and AI Agents**
-- 📫 Reach me at **yashmaheshwari2405@gmail.com**
-- ⚡ Fun fact **I am a chill guy**
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91ZGw4eXZwY3I1Y3I1bm91ZGw4eXZwY3I1Y3I1bm91ZGw4eXZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="auto"/>
+</div>
 
----
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-maheshwari-3b891a307" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/yash_maheshwari_11" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="40" />
-</a>
-</p>
+<div align="center">
+  <h3>👨‍💻 About Me</h3>
+</div>
 
----
+> *System initializing...*
+> **Hi, I'm Yash Maheshwari.** A passionate Machine Learning practitioner focused on the cutting edge of **Agentic AI** and **Large Language Models**. I bridge the gap between complex data and actionable intelligence.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-</p>
+- 🔭 **Current Project:** Building [TradeguardAI](https://github.com/ApexYash11/TradeguardAI), an intelligent financial protection system.
+- 🌱 **Learning Focus:** Deep diving into **LangChain**, **LangGraph**, and multi-agent orchestration.
+- 🤝 **Collaboration:** Open to PRs and collaboration on [TradeguardAI](https://github.com/ApexYash11/TradeguardAI).
+- 💬 **Expertise:** Ask me about **LLM Fine-tuning, RAG pipelines, and Python**.
+- ⚡ **Fun Fact:** I'm a chill guy who trains models that (usually) don't hallucinate.
+
+<div align="center">
+  <a href="mailto:yashmaheshwari2405@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/yash-maheshwari-3b891a307">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/yash_maheshwari_11">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=apexyash11&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=apexyash11&theme=tokyonight" />
-</p>
+**🤖 Machine Learning & AI**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white">
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apexyash11&layout=compact&theme=tokyonight" />
-</p>
+**💻 Languages**
+<br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+
+**⚙️ Backend & DevOps**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+
+**🗄️ Databases**
+<br>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=apexyash11&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=23F7DD&icon_color=23F7DD" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apexyash11&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=23F7DD&icon_color=23F7DD" height="180" alt="languages graph" />
+  <br>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=apexyash11&theme=algolia&hide_border=true&background=0D1117&ring=23F7DD&fire=23F7DD&currStreakLabel=23F7DD" alt="streak graph" />
+  
+  <br>
+  <img src="https://github.com/ApexYash11/ApexYash11/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
+</div>
+
+<br>
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=apexyash11&label=Profile%20Views&color=23F7DD&style=for-the-badge" alt="Profile Views" />
+</div>
