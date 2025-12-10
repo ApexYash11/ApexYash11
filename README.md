@@ -72,19 +72,28 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ApexYash11&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=23F7DD&icon_color=23F7DD" height="180" alt="stats graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ApexYash11&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+  <br/>
+  <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexYash11&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=23F7DD&icon_color=23F7DD" height="180" alt="languages graph" />
-  <br>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ApexYash11&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=23F7DD&icon_color=23F7DD" alt="stats graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexYash11&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=23F7DD&icon_color=23F7DD" alt="languages graph" />
+  
+  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ApexYash11&theme=algolia&hide_border=true&background=0D1117&ring=23F7DD&fire=23F7DD&currStreakLabel=23F7DD" alt="streak graph" />
   
-  <br>
+  <br/>
+  
   <img src="https://raw.githubusercontent.com/ApexYash11/ApexYash11/output/github-contribution-grid-snake.svg" alt="snake contribution graph"/>
 </div>
 
-<br>
+<br/>
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=ApexYash11&label=Profile%20Views&color=23F7DD&style=for-the-badge" alt="Profile Views" />
 </div>
