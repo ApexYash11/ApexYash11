@@ -43,31 +43,55 @@
 <br>
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=graphviz&logoColor=white">
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=opensearch&logoColor=white">
+<img src="https://img.shields.io/badge/Vector%20Databases-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 
 **💻 Languages**
 <br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 
-**⚙️ Backend & DevOps**
+**⚙️ Backend, Systems & DevOps**
 <br>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white">
+<img src="https://img.shields.io/badge/AsyncIO-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/WebSockets-4353FF?style=for-the-badge&logo=socketdotio&logoColor=white">
+<img src="https://img.shields.io/badge/Uvicorn-2F6FED?style=for-the-badge&logo=gunicorn&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
-**🗄️ Databases**
+**🗄️ Databases & Storage**
 <br>
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/SQL%20Optimization-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+**☁️ Cloud & Deployment**
+<br>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/API%20Deployment-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+
+**🧪 Dev Practices & Tooling**
+<br>
+<img src="https://img.shields.io/badge/Structured%20Logging-4B5563?style=for-the-badge&logo=logstash&logoColor=white">
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge&logo=abstract&logoColor=white">
+<img src="https://img.shields.io/badge/Debugging-DC2626?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 </div>
 
 ---
+
 
 ### 📊 GitHub Analytics
 
