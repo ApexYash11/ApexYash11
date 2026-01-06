@@ -38,73 +38,63 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 ## 🛠️ Technical Arsenal
 
 ### 🤖 Machine Learning & AI
-- Machine Learning (Supervised & Unsupervised)
-- Deep Learning (Neural Networks)
-- Large Language Models (LLMs)
-- **Agentic AI Systems**
-- **Multi-Agent Orchestration**
-- Retrieval-Augmented Generation (RAG)
-- LLM Fine-Tuning & Prompt Engineering
-- Vector Search & Embeddings
-- Model Evaluation & Error Analysis
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
-**Frameworks & Libraries**
-- PyTorch
-- TensorFlow
-- scikit-learn
-- LangChain
-- LangGraph
-- NumPy, pandas
+<br/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
 
 ---
 
-### 💻 Programming Languages
-- Python
-- Java
-- C
-- SQL
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### ⚙️ Backend, Systems & APIs
-- FastAPI
-- RESTful API Design
-- OpenAPI / Swagger
-- AsyncIO & Concurrency
-- WebSockets
-- Background Tasks & Workers
-- ASGI Servers (Uvicorn)
+### ⚙️ Backend, Systems & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-000000?style=for-the-badge&logo=python&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4353FF?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+<br/>
+
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2F6FED?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🗄️ Databases & Storage
-- PostgreSQL
-- MySQL
-- MongoDB
-- Supabase
-- Vector Databases (FAISS / Chroma-style)
-- SQL Optimization
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL Optimization](https://img.shields.io/badge/SQL%20Optimization-336791?style=for-the-badge)
 
 ---
 
-### ☁️ Cloud, DevOps & Deployment
-- Docker
-- AWS EC2
-- API Deployment & Scaling
-- Environment & Config Management
-- CI-friendly Project Structuring
+### ☁️ Cloud & Deployment
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![API Deployment](https://img.shields.io/badge/API%20Deployment-009688?style=for-the-badge)
 
 ---
 
-### 🧪 Engineering Practices
-- System Design & Architecture
-- Structured Logging
-- Debugging & Profiling
-- Reproducible ML Pipelines
-- Production-Ready Code
-- Open-Source Collaboration
+### 🧪 Dev Practices & Tooling
+![Structured Logging](https://img.shields.io/badge/Structured%20Logging-4B5563?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-111827?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-DC2626?style=for-the-badge)
 
----
 
 ## 📊 GitHub Analytics
 
