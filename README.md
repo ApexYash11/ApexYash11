@@ -1,117 +1,148 @@
-<!-- ================= FLOATING BUY ME A COFFEE ================= -->
-<a href="https://buymeacoffee.com/apexyash11" target="_blank">
-  <img
-    src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=apexyash11&button_colour=23F7DD&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff"
-    alt="Buy Me A Coffee"
-    style="
-      position: fixed;
-      bottom: 20px;
-      right: 20px;
-      z-index: 1000;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-      border-radius: 12px;
-    "
-  />
-</a>
+<p align="center">
+  <a href="https://buymeacoffee.com/apexyash11">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-23F7DD?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
 
-<!-- ================= HERO ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Building+Agentic+AI+Systems;LLM+Enthusiast+%26+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Building+Agentic+AI+Systems;LLM+Enthusiast+%26+Developer;Open+Source+Contributor" />
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm91ZGw4eXZwY3I1Y3I1bm91ZGw4eXZwY3I1Y3I1bm91ZGw4eXZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" />
+  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" />
 </div>
 
-<hr/>
+---
 
-<!-- ================= ABOUT ================= -->
-<div align="center">
-  <h3>👨‍💻 About Me</h3>
-</div>
+## 👨‍💻 About Me
 
 > *System initializing...*  
-> **Hi, I'm Yash Maheshwari.**  
-> I love building smart tools, exploring new ideas, and turning complex problems into simple, useful solutions.
+> **Hi, I’m Yash Maheshwari.**
 
-- 🔭 **Current Project:** Building <a href="https://github.com/ApexYash11/TradeguardAI">TradeguardAI</a>
-- 🌱 **Learning:** Exploring agent-based systems and AI workflows
+I enjoy building smart tools, exploring new ideas, and turning complex problems into simple, useful solutions.  
+I’m especially interested in intelligent systems that **reason, plan, and act**, not just generate answers.
+
+- 🔭 **Current Project:** [TradeguardAI](https://github.com/ApexYash11/TradeguardAI)
+- 🌱 **Currently Learning:** Agentic AI systems & multi-agent workflows
 - 🤝 **Collaboration:** Open to PRs and new ideas
-- ⚡ **Fun Fact:** Chill guy who builds things that (usually) work 😄
+- ⚡ **Fun Fact:** Chill guy who trains models that (usually) don’t hallucinate
 
-<div align="center">
-  <a href="mailto:yashmaheshwari2405@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yash-maheshwari-3b891a307">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yash_maheshwari_11">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:yashmaheshwari2405@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yash-maheshwari-3b891a307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/yash_maheshwari_11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-<hr/>
+---
 
-<!-- ================= TECH STACK ================= -->
-### 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal
 
-<div align="center">
+### 🤖 Machine Learning & AI
+- Machine Learning (Supervised & Unsupervised)
+- Deep Learning (Neural Networks)
+- Large Language Models (LLMs)
+- **Agentic AI Systems**
+- **Multi-Agent Orchestration**
+- Retrieval-Augmented Generation (RAG)
+- LLM Fine-Tuning & Prompt Engineering
+- Vector Search & Embeddings
+- Model Evaluation & Error Analysis
 
-**🤖 AI & Machine Learning**  
-<br/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+**Frameworks & Libraries**
+- PyTorch
+- TensorFlow
+- scikit-learn
+- LangChain
+- LangGraph
+- NumPy, pandas
 
-**💻 Languages**  
-<br/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+---
 
-**⚙️ Backend & DevOps**  
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+### 💻 Programming Languages
+- Python
+- Java
+- C
+- SQL
 
-</div>
+---
 
-<hr/>
+### ⚙️ Backend, Systems & APIs
+- FastAPI
+- RESTful API Design
+- OpenAPI / Swagger
+- AsyncIO & Concurrency
+- WebSockets
+- Background Tasks & Workers
+- ASGI Servers (Uvicorn)
 
-<!-- ================= GITHUB STATS ================= -->
-### 📊 GitHub Analytics
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ApexYash11&theme=algolia&margin-w=4"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ApexYash11&show_icons=true&theme=algolia&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexYash11&layout=compact&theme=algolia&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ApexYash11&theme=algolia&hide_border=true"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/ApexYash11/ApexYash11/output/github-contribution-grid-snake.svg"/>
-</div>
+### 🗄️ Databases & Storage
+- PostgreSQL
+- MySQL
+- MongoDB
+- Supabase
+- Vector Databases (FAISS / Chroma-style)
+- SQL Optimization
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ApexYash11&label=Profile%20Views&color=23F7DD&style=for-the-badge"/>
-</div>
+### ☁️ Cloud, DevOps & Deployment
+- Docker
+- AWS EC2
+- API Deployment & Scaling
+- Environment & Config Management
+- CI-friendly Project Structuring
 
-<hr/>
+---
 
-<!-- ================= FOOTER CTA ================= -->
-<div align="center">
-  <h3>☕ Support My Work</h3>
-  <p>If you like what I build or share, consider buying me a coffee 💛</p>
+### 🧪 Engineering Practices
+- System Design & Architecture
+- Structured Logging
+- Debugging & Profiling
+- Reproducible ML Pipelines
+- Production-Ready Code
+- Open-Source Collaboration
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ApexYash11&theme=algolia&margin-w=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ApexYash11&show_icons=true&theme=algolia&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexYash11&layout=compact&theme=algolia&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ApexYash11&theme=algolia&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ApexYash11/ApexYash11/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ApexYash11&label=Profile%20Views&color=23F7DD&style=for-the-badge" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+If you enjoy my projects, experiments, or learn something from them,  
+you can support me by buying me a coffee 💛
+
+<p align="center">
   <a href="https://buymeacoffee.com/apexyash11">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=apexyash11&button_colour=23F7DD&font_colour=000000&font_family=Inter"/>
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=apexyash11&button_colour=23F7DD&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" />
   </a>
-</div>
+</p>
+
+<p align="center"><i>Your support helps me keep building and sharing 🚀</i></p>
