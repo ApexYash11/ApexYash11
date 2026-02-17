@@ -22,7 +22,7 @@
 I enjoy building smart tools, exploring new ideas, and turning complex problems into simple, useful solutions.  
 I’m especially interested in intelligent systems that **reason, plan, and act**, not just generate answers.
 
-- 🔭 **Current Project:** [TradeguardAI](https://github.com/ApexYash11/TradeguardAI)
+- 🔭 **Current Project:** [Consilience](https://github.com/ApexYash11/Consilience)
 - 🌱 **Currently Learning:** Agentic AI systems & multi-agent workflows
 - 🤝 **Collaboration:** Open to PRs and new ideas
 - ⚡ **Fun Fact:** Chill guy who trains models that (usually) don’t hallucinate
