@@ -35,6 +35,37 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 
 ---
 
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🚀 Backend Engineer Intern — Orydle  
+*Jan 2026 – Present | Remote*
+
+</div>
+
+- Architecting AI-powered cloud IDE integrating semantic search and Retrieval-Augmented Generation (RAG)
+- Designing graph-structured workflows using LangGraph for stateful and deterministic AI execution
+- Building distributed async backend systems with FastAPI, WebSocket streaming, and checkpointing
+- Deploying containerized microservices on AWS EC2 using Docker & Kubernetes
+- Improved backend reliability and throughput by **30%**
+
+---
+
+<div align="center">
+
+### 🤖 AI / ML Intern — DevX  
+*Dec 2025 – Jan 2026 | Remote*
+
+</div>
+
+- Developed ML forecasting engine improving prediction accuracy by **70%**
+- Engineered automated preprocessing pipelines reducing data preparation time by **40%**
+- Built scalable inference APIs using FastAPI with async architecture
+- Deployed production-ready ML systems on AWS with Docker & CI/CD pipelines
+
+---
+
 ## 🛠️ Technical Arsenal
 
 ### 🤖 Machine Learning & AI
@@ -49,6 +80,8 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
+![SARIMAX](https://img.shields.io/badge/SARIMAX-0F172A?style=for-the-badge)
 
 ---
 
@@ -66,6 +99,8 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-000000?style=for-the-badge&logo=python&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-4353FF?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-111827?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4B5563?style=for-the-badge)
 
 <br/>
 
@@ -81,6 +116,7 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL Optimization](https://img.shields.io/badge/SQL%20Optimization-336791?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-8B5CF6?style=for-the-badge)
 
 ---
 
@@ -95,6 +131,7 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 ![System Design](https://img.shields.io/badge/System%20Design-111827?style=for-the-badge)
 ![Debugging](https://img.shields.io/badge/Debugging-DC2626?style=for-the-badge)
 
+---
 
 ## 📊 GitHub Analytics
 
