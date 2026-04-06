@@ -41,7 +41,7 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 
 <div align="center">
 
-### 🚀 Backend Engineer Intern — Orydle  
+### Backend Engineer Intern — Orydle  
 *Jan 2026 – Present | Remote*
 
 </div>
@@ -56,7 +56,7 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 
 <div align="center">
 
-### 🤖 AI / ML Intern — DevX  
+### AI / ML Intern — DevX  
 *Dec 2025 – Jan 2026 | Remote*
 
 </div>
