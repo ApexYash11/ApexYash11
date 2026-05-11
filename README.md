@@ -42,7 +42,7 @@ I’m especially interested in intelligent systems that **reason, plan, and act*
 <div align="center">
 
 ### Backend Engineer Intern — Orydle  
-*Jan 2026 – Present | Remote*
+*Jan 2026 – Apr 2026 | Remote*
 
 </div>
 
