@@ -1,138 +1,155 @@
-<p align="center">
-  <a href="https://buymeacoffee.com/apexyash11">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-23F7DD?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
-  </a>
+<div align="center">
+
+# Yash Maheshwari
+
+### AI / ML Engineer • Backend Engineer • Open Source
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=560&lines=Building+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+Backend+Infrastructure;Agent+Orchestration+%7C+Distributed+Systems;Open+Source+Contributor" />
+
+<p>
+  <a href="https://yashmaheshwari.is-a.dev">Portfolio</a> •
+  <a href="https://linkedin.com/in/yash-maheshwari-3b891a307">LinkedIn</a> •
+  <a href="mailto:yashmaheshwari2405@gmail.com">Email</a> •
+  <a href="https://x.com/YashMah11">X</a>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Backend+%2F+AI+Engineer;Building+Agentic+AI+Systems;RAG+%26+LLM+Infrastructure;Open+Source+Contributor" />
-</div>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" />
 </div>
 
 ---
 
-## About Me
+## About
 
-Hi, I'm Yash Maheshwari — a backend and AI engineer working at the intersection of distributed systems and applied LLMs. I like building things that reason, plan, and act, not just generate text.
+I'm Yash, a **B.Tech CSE student and AI/ML Engineer** focused on building systems that can **reason, retrieve, plan and execute**.
 
-- Current project: Argus
-- Currently exploring: agentic AI systems and multi-agent workflows
-- Open to collaboration on PRs and new ideas
-- Final-year B.Tech CSE (Data Science), Manipal University Jaipur — expected 2027
+Currently working as an **AI Intern at WSP**, while building agentic systems and contributing to open-source infrastructure.
 
-<p align="center">
-  <a href="mailto:yashmaheshwari2405@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yash-maheshwari-3b891a307"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yash_maheshwari_11"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/YashMah11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</p>
+- **Currently:** Argus — autonomous financial investigation
+- **Focus:** Agentic AI · LLM Infrastructure · RAG · Distributed Systems
+- **Education:** B.Tech CSE (Data Science), Manipal University Jaipur
+- **Graduating:** 2027
 
 ---
 
-## Professional Experience
+## Experience
 
 ### AI Intern — WSP
-*Jul 2026 – Present | Bengaluru, India*
 
-- Building AI-powered engineering solutions and internal automation tools
-- Working on production backend services and LLM-based workflows
-- Developing scalable APIs and data processing pipelines
-- Collaborating with engineering teams to deploy AI into real-world workflows
+`Jul 2026 – Present · Bengaluru`
+
+Building AI-powered engineering solutions, backend services and LLM workflows.
 
 ### Software Engineer Intern — Orydle
-*Jan 2026 – Apr 2026 | Remote*
 
-- Built cloud IDE backend with FastAPI + PostgreSQL: async architecture, WebSocket streaming, and distributed workflow execution with checkpointing and fallback paths
-- Implemented GitHub API integration for automated codebase crawling — repository ingestion, branch-level indexing, and context retrieval across entire codebases
-- Engineered the full backend data pipeline (chunking, vector indexing, reranking) for semantic code search, improving backend throughput by 30%
-- Designed structured output schemas and prompt optimization strategies, cutting external API cost by 25%; added fallback and retry logic for agent reliability
+`Jan 2026 – Apr 2026`
+
+- Built FastAPI/PostgreSQL backend infrastructure
+- Developed GitHub codebase ingestion and semantic code search
+- Built distributed workflows with WebSockets and checkpointing
+- Improved backend throughput by **30%**
+- Reduced external LLM costs by **25%**
 
 ### AI/ML Intern — DevX
-*Dec 2025 – Jan 2026 | Surat*
 
-- Built a production ML forecasting engine (SARIMAX + Scikit-learn) with an end-to-end feature engineering pipeline, improving prediction accuracy by 70%
-- Developed scalable async FastAPI inference pipelines; Pandas + NumPy preprocessing cut data preparation time by 40%
-- Designed and maintained eval sets and regression tests to catch model drift pre-deployment
-- Built an automated business report generation system using Hugging Face Transformers
+`Dec 2025 – Jan 2026`
 
-### Open Source Contributor — Traceroot AI, TracerCloud & AgentWrapper
-*2026 | Remote*
-
-- Merged PR #1152 to traceroot-ai/traceroot, shipping a version badge feature
-- Merged PR #1235 to traceroot-ai/traceroot, fixing a trace error count deduplication bug using ClickHouse SQL and an error leaf heuristic
-- Merged PR #2761 to Tracer-Cloud/opensre, adding types-PyYAML stubs enabling full mypy type-checking
-- Merged three PRs to AgentWrapper/agent-orchestrator: preflight reviewer-binary validation (#2767), assembled prompt byte metrics at agent spawn (#2839), and a tmux liveness fix for exited agents (#2831)
+- Built forecasting systems using SARIMAX and Scikit-learn
+- Developed asynchronous FastAPI inference pipelines
+- Improved prediction accuracy by **70%**
+- Reduced data preprocessing time by **40%**
 
 ---
 
-## Projects
+## Selected Projects
 
-**ClaimWise** — Python, FastAPI, LangChain, PostgreSQL, Supabase, Next.js
-Full-stack AI SaaS platform with a FastAPI backend, Supabase auth + storage, vector DB integration, and a Next.js frontend. Document ingestion pipeline covers PDF parsing, chunking, embedding, and reranking with structured coverage extraction. Reduced pipeline latency by 60%.
+### Argus
 
-**Jasper** — Python, FastAPI, LangGraph, Docker, CI/CD
-Autonomous financial research agent, independently architected end-to-end with multi-step LLM pipelines, tool calling, state machines, human-in-the-loop checkpoints, and audit logging — 100% deterministic execution across test cases. Published as a PyPI package (`jasper-finance`); deployed with Docker and CI/CD.
+**Autonomous Financial Investigation System**
 
-**Argus** — LangGraph.js, Bun, TypeScript, Ink
-CLI-based autonomous financial investigation system for startups. Covers agent architecture, data quality hardening, a generalized ingestion pipeline, and LLM-powered finding generation, using free LLM models via Groq and OpenRouter.
+`TypeScript` `LangGraph.js` `Bun` `Ink`
+
+Agentic CLI for startup research with generalized ingestion, data-quality validation and LLM-powered investigation.
+
+### Jasper Finance
+
+**Autonomous Financial Research Agent**
+
+`Python` `LangGraph` `FastAPI` `Docker`
+
+Multi-step research agent with tool calling, state machines, human-in-the-loop checkpoints and audit logging.
+
+### ClaimWise
+
+**AI Document & Claims Intelligence**
+
+`Python` `FastAPI` `PostgreSQL` `Next.js`
+
+Document ingestion and analysis pipeline using embeddings, vector search, reranking and structured extraction.
 
 ---
 
-## Technical Skills
+## Open Source
 
-**Languages:** Python, Java, SQL, C
+Contributing to AI infrastructure and developer tooling across:
 
-**AI / ML:** LangGraph, LangChain, RAG, Autonomous Agents, Tool Calling, Prompt Engineering, Structured Outputs, Embeddings, Vector Search, Hallucination Mitigation, Scikit-learn, TensorFlow, Hugging Face Transformers
+**Traceroot AI · TracerCloud · Agent orchestratorr **
 
-**Backend:** FastAPI, RESTful APIs, WebSockets, Asynchronous Programming, Microservices, Distributed Systems, Message Queues, System Design, API Design
+Merged contributions covering:
 
-**Data Engineering:** ETL Pipelines, Feature Engineering, Pandas, NumPy
+`Observability` · `ClickHouse` · `Type Checking` · `Agent Orchestration` · `Developer Tooling`
 
-**Databases:** PostgreSQL, Supabase, FAISS, Chroma, ClickHouse, Query Optimization, Indexing
+---
 
-**Cloud & DevOps:** AWS EC2, Docker, Kubernetes, GitHub Actions, Git, CI/CD, Web Crawling
+## Stack
 
-**Testing & Tooling:** pytest, Postman, Unit Testing, Logging, Debugging
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,fastapi,postgres,docker,kubernetes,aws,git,github,pandas,numpy" />
+</p>
+
+<p align="center">
+  <code>LangGraph</code> ·
+  <code>RAG</code> ·
+  <code>LLMs</code> ·
+  <code>Agents</code> ·
+  <code>Tool Calling</code> ·
+  <code>Vector Search</code> ·
+  <code>WebSockets</code> ·
+  <code>FAISS</code> ·
+  <code>Chroma</code> ·
+  <code>Reranking</code>
+</p>
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ApexYash11&theme=algolia&margin-w=4" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ApexYash11&show_icons=true&theme=algolia&hide_border=true" />
-</p>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ApexYash11&theme=algolia&margin-w=4" />
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ApexYash11&layout=compact&theme=algolia&hide_border=true" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ApexYash11&theme=algolia&hide_border=true" />
-</p>
+<img src="https://github-stats-extended.vercel.app/api?username=ApexYash11&show_icons=true&theme=algolia&hide_border=true" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ApexYash11/ApexYash11/output/github-contribution-grid-snake.svg" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ApexYash11&label=Profile%20Views&color=23F7DD&style=for-the-badge" />
-</p>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ApexYash11&layout=compact&theme=algolia&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ApexYash11&theme=algolia&hide_border=true" />
+
+</div>
 
 ---
 
-## Support My Work
+<div align="center">
 
-If you find my projects useful, you can support me here:
+### Building systems that don't just generate — they act.
 
-<p align="center">
-  <a href="https://buymeacoffee.com/apexyash11">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=apexyash11&button_colour=23F7DD&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
-</p>
+<br>
+
+<a href="https://buymeacoffee.com/apexyash11">
+  <img src="https://img.shields.io/badge/Support_My_Work-23F7DD?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+</a>
+
+</div>
