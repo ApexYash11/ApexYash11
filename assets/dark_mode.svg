@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1416 692" role="img" aria-labelledby="title desc">
+<title id="title">Yash Maheshwari — live developer profile</title>
+<desc id="desc">Terminal-inspired profile with abstract ASCII art and live GitHub activity.</desc>
+<style>
+:root {--background: #0d1117; --border: #30363d; --portrait: #23F7DD; --heading: #23F7DD; --key: #d2a8ff; --value: #79c0ff; --muted: #3d444d; --plus: #3fb950; --minus: #f85149;}
+text { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace; font-size: 16px; }
+.portrait { font-family: Menlo, Monaco, "Courier New", monospace; font-size: 9px; font-weight: 700; fill: var(--portrait); }
+</style>
+<rect x="0.5" y="0.5" width="1415" height="691" rx="12" fill="var(--background)" stroke="var(--border)"/>
+<text class="portrait" xml:space="preserve"><tspan x="24" y="30.00">                            . ..........,...,...,...,.......... .</tspan>
+<tspan x="24" y="39.25">                          .............,,,,,,,,,,,,,,,.............</tspan>
+<tspan x="24" y="48.51">                        ..........,,,,,,,,,,,,,,,,,,,,,,,,,..........</tspan>
+<tspan x="24" y="57.76">                    ........,...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,...,........</tspan>
+<tspan x="24" y="67.01">                   ...........,,,,,,,...................,,,,,,,...........</tspan>
+<tspan x="24" y="76.27">                 ...........................................................</tspan>
+<tspan x="24" y="85.52">                ....,...,...,...,...,...,,,,:,,,:,,,,...,...,...,...,...,....</tspan>
+<tspan x="24" y="94.78">              ....................,,,,,,,,,,,,,,,,,,,,,,,,,....................</tspan>
+<tspan x="24" y="104.03">             ..................,,,,,,,:::::::::::::::::,,,,,,,..................</tspan>
+<tspan x="24" y="113.28">           .....,...,...,...,,,,::::;:::;::;;;;;;;::;:::;::::,,,,...,...,...,.....</tspan>
+<tspan x="24" y="122.54">          ....,:,.,,.....,,,,,::::::;;;;;;;;;;;;;;;;;;;;;::::::,,,,,........,:,....</tspan>
+<tspan x="24" y="131.79">         .....:rri;;::,,,,,:::::;;;;;;:::::::::::::::::;;;;;;:::::,,,,.....:ir:.....</tspan>
+<tspan x="24" y="141.04">        ....,.,iA5Assr;:::::;;;;i;::;:::;:::::::::::;:::;::;i;;;;::::,,,,.;sr:..,....</tspan>
+<tspan x="24" y="150.30">       ......,:is3GH3Asi:::;;;;:::::::,,,,,,,,,,,,,,,,,:::::::;;;;::::,,;rXi,.........</tspan>
+<tspan x="24" y="159.55">      .......,;rA5H9BG2si;;;::::::,,,,,,,,.........,,,,,,,,::::::;;;:::s52s;:,,........</tspan>
+<tspan x="24" y="168.81">     .......,:iX3MS9&amp;@#5s;::;::,:,,,,..,:,,,:,,,:,,,:,..,,,,:,::;::;ir2HhAssr;:,,.......</tspan>
+<tspan x="24" y="178.06">    .........:rAhS&amp;&amp;9BBS2::::,,,,..,,,,,,,:::::::::,,,,,,,..,,,,::::s3M32522Xsi:,........</tspan>
+<tspan x="24" y="187.31">    .........;s2MS&amp;@@#HHHX;,,,,.,,,,,::::::::;i;::::::::,,,,,.,,,,;Xh355hMMh5Asi:........</tspan>
+<tspan x="24" y="196.57">   .....,...,;s2MG99BBGA22Ai,.,,:,::;:;;i;;;rrsrr;;;i;;:;::,:,,.,iA2As2hGSSSH3Asi,..,.....</tspan>
+<tspan x="24" y="205.82">   ..........:rA3HGGM333sis2s:,,:::;;;;iiiirssXssriiii;;;;:::,,:s2s;iX5MG9BB#M5Xi:........</tspan>
+<tspan x="24" y="215.07">  ..........,,is23h35Asiis;r2Ar::;;;iii;;iirsXAXsrii;;iii;;;::rA2r,,iX5MSB@@BG3Ar:.........</tspan>
+<tspan x="24" y="224.33"> .......,..,:,:rAAAAAr;,,:rsXA3Ar;iii;;;iirsAA2AAsrii;;;iii;rA3Ar,,.is2H&amp;@@@&amp;Sh2s;..,.......</tspan>
+<tspan x="24" y="233.58"> ..........,,::;irrii:,,.,,iXXA35X;;;::;irrsXA2AXsrri;::;;;X53X;::,,;AM###9B9Gh2r;..........</tspan>
+<tspan x="24" y="242.84"> .........,,,::;;:::,,,.,,::;s255hAi::;iirsXA222AXsrii;::iAh5s;;;:;rA225hHGSGH3Ar:,.........</tspan>
+<tspan x="24" y="252.09">........,.,,::;;;::,:,.,:::;i;iX355As;iissX233h332Xssii;sA5Xr;i;sXXr;;rA33MMM35Xr,,.,.......</tspan>
+<tspan x="24" y="261.34">.........,,,::;;:::,,.,,:::;;i;;is533ArsXA53hMHMh35AXsrA32r::iX2Ar::::irX25552Ar;,,,........</tspan>
+<tspan x="24" y="270.60">.........,,::;;:::,,,,,,::;;i;;:::r2MGM323hMG#9#GMh323MH2i;isAsii;;::,:;isXXXsri::,,........</tspan>
+<tspan x="24" y="279.85">........,,,:;;;:;:,,,,,:;;;ii;;:i;ii2SBB#HS9@@@@@9SH#9G5XA2As:;;ii;;;:,,:;iiri;;;:,,,.......</tspan>
+<tspan x="24" y="289.10">........,,,::;;::,,,.,,::;;i;;;;iirsA2G@@@@@@@@@@@@@@#HMM5sii;;;;i;;::,,.,,,::;;::,,,.......</tspan>
+<tspan x="24" y="298.36">........,,::;;:::,,.,,::;;i;;;iirrsA23h#@@@@@@@@@@@@@@#M2Asrrii;;;i;;::,,.,,:::;;::,,.......</tspan>
+<tspan x="24" y="307.61">........,,::i;::;,,.:,::i;iirrrrXsA2hMGB@@@@@@@@@@@@@&amp;GMh2AsXrrrrii;i::,:.,,;::;i::,,.......</tspan>
+<tspan x="24" y="316.87">........,,::;;:::,,.,,::;;irrssXXA23MH9@@@@@@@@@@@@@@@9HM32AXXssrri;;::,,.,,:::;;::,,.......</tspan>
+<tspan x="24" y="326.12">........,,::;;:::,,.,,::;issXXXAA23hHGB@@@@@@@@@@@@@@@BGHh32AAXXXssi;::,,.,,:::;;::,,.......</tspan>
+<tspan x="24" y="335.37">........,,::i;:::,,.:,::i;irsssXAA23MH9@@@@@@@@@@@@@@@9HM32AAXsssri;i::,:.,,:::;i::,,.......</tspan>
+<tspan x="24" y="344.63">........,,::;;:::,,.,,::;;iiirrrssA23MGB@@@@@@@@@@@@@BGM32Assrrriii;;::,,.,,:::;;::,,.......</tspan>
+<tspan x="24" y="353.88">........,,::;;:::,,.,,::;;i;;;iirrsA23hS@@@@@@@@@@@@@Sh32Asrrii;;;i;;::,,.,,:::;;::,,.......</tspan>
+<tspan x="24" y="363.13">........,,,:;;;:;,,,,,,:;;;ii;;;rirsA2h#@@@@@@@@@@@@@&amp;h2Asrir;;;ii;;;:,,,,,,;:;;;:,,,.......</tspan>
+<tspan x="24" y="372.39">.........,,::;;:::,,.,,::;;i;;;:;;iis5S@&amp;GS9&amp;@@@&amp;9SHS@&amp;hsii;;:;;;i;;::,,.,,:::;;::,,........</tspan>
+<tspan x="24" y="381.64">.........,,::;;:::,,,,,,::;;i;;:::;i2S9H23hMG#9#GMh323G&amp;hi;:::;;i;;::,,,,,,:::;;::,,........</tspan>
+<tspan x="24" y="390.90">........,,,,;:;;;::,:.,,:::;ii;;;:r2GHXsAA53MMHMM35AAsr2SHs:;;;ii;:::,,.:,::;;;:;,,,,.......</tspan>
+<tspan x="24" y="400.15">..........,,::;;:::,,,.,,::;;;i;iX3h5iiirsX253h352Xsrii;r3S5i;i;;;::,,.,,,:::;;::,,.........</tspan>
+<tspan x="24" y="409.40"> .........,,,::;;:::,,,.,,::;;;s5MMX::;iirsXA222AXsrii;::iAGGA;;;::,,.,,,:::;;::,,,.........</tspan>
+<tspan x="24" y="418.66"> .......,..,:::;i;:::,,,,,,:;;X3HMs;i::;rrrsAA2AAsrrr;::i;;XM#3;;:,,,,,,:::;i;:::,..,.......</tspan>
+<tspan x="24" y="427.91"> ..........,,,::;;::::,,,.,,iA332iii;;;;;irsXA2AXsri;;;;;ii;iAGMs,,.,,,::::;;::,,,..........</tspan>
+<tspan x="24" y="437.16">  ..........,,,::;;:;ii;:,,r255s:;;;iii;;iirsXAXsrii;;iii;;;::r5HA,,,:irssr;::,,,..........</tspan>
+<tspan x="24" y="446.42">   .....,...,,,,;:irXXXsssA22Ai,;::;i;;iriirssXssriiri;;i;::;,,:XMhrisA252Ar;,,,,...,.....</tspan>
+<tspan x="24" y="455.67">   ...........,,,;sA2555hHh2s:,,,,::::;;;;;;irsri;;;;;;::::,,,,.,i5SM23MMh5Xi,,...........</tspan>
+<tspan x="24" y="464.93">    ...........,,iX5hMGB@SH2:,,.,,,,,::::::::;i;::::::::,,,,,.,,,,;5@@9S#Gh2r:...........</tspan>
+<tspan x="24" y="474.18">    ........,...;rA3GB@@@9hsi,,,:..,:,,,:,::;:::;::,:,,,:,..:,,,::;sG@@@@#M2s:..,........</tspan>
+<tspan x="24" y="483.43">     ...........:rAM&amp;@@@@S3Ar::,,,,,...,,,,,,,,,,,,,,,...,,,,,::::;X3S@@&amp;9M2r:..........</tspan>
+<tspan x="24" y="492.69">      ..........:r3#B&amp;@@9Gh2s:::::,,,,,,,,.........,,,,,,,,::::::;;X5MS&amp;B9HXi:.........</tspan>
+<tspan x="24" y="501.94">       .....,...;AHGS#&amp;B9H32X;;:;:::;:,,:,,,:,,,:,,,:,,:;:::;:;;i;:r25hMGSG2r,..,.....</tspan>
+<tspan x="24" y="511.19">        .......:s2223MGGHh5Ar;;;;;:::::::::::::::::::::::::;;;;;:::;rX222A22s:.......</tspan>
+<tspan x="24" y="520.45">         .....:rrirsA53335As;:::;;;;;;:::::::::::::::::;;;;;;:::::,,:irrrr;iir:.....</tspan>
+<tspan x="24" y="529.70">          ....,:,:;rXXAAAXr;:,::;:::;;;;i;;;i;;;i;;;i;;;;:::;::,:,,,,,::;:,.,:,....</tspan>
+<tspan x="24" y="538.96">           .......:;irrrri;,,,,,,::::::::::;;;;;;;::::::::::,,,,,.................</tspan>
+<tspan x="24" y="548.21">             ......,:;;;::.....,,,,,,,:::::::::::::::::,,,,,,,..................</tspan>
+<tspan x="24" y="557.46">              ......,,,,,...,...,.,,:,,,:,,,:,,,:,,,:,,,:,,.,...,...,...,......</tspan>
+<tspan x="24" y="566.72">                ........................,,hhhh,,,,,,,........................</tspan>
+<tspan x="24" y="575.97">                 ......................5533333333...........................</tspan>
+<tspan x="24" y="585.22">                   .....,...,.,,,,,,,255555.,555355.,...,,,,,,,.,...,.....</tspan>
+<tspan x="24" y="594.48">                 .,,::;iir......,,,AAA22,,,,,,,,22222,,,,,,,,.....rrii..</tspan>
+<tspan x="24" y="603.73">                  ..,,::;;iirrsssXXXXX,,,,,,,,,,,,AAAAA,,,,...srrii;;::,,.</tspan>
+<tspan x="24" y="612.99">                        .::;iiirrrs.,..,,,,,,,,,,,,,XXXsXssrrriii;:::,,..</tspan>
+<tspan x="24" y="622.24">                              ........................rrriii;;;</tspan>
+<tspan x="24" y="631.49">                                  .........................</tspan>
+<tspan x="24" y="640.75">                                    .   . ......... .   .</tspan></text>
+<text x="616" y="36" fill="var(--heading)" font-weight="700" xml:space="preserve">yash@github <tspan fill="var(--muted)">─────────────────────────────────────────────────────────</tspan></text>
+<text x="616" y="70" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">currently.building:</tspan><tspan fill="var(--muted)"> . . . . . . </tspan><tspan fill="var(--value)">Orchestrator Inc — agent orchestration</tspan></text>
+<text x="616" y="96" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">identity.role:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . .  </tspan><tspan fill="var(--value)">AI Intern @ WSP · B.Tech CSE &#x27;27</tspan></text>
+<text x="616" y="122" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">identity.focus:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . . . . </tspan><tspan fill="var(--value)">agentic AI · RAG · LLM infra</tspan></text>
+<text x="616" y="148" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">stack.core:</tspan><tspan fill="var(--muted)"> . . . . . . . .  </tspan><tspan fill="var(--value)">python · typescript · langgraph · fastapi</tspan></text>
+<text x="616" y="174" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">stack.infra:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . . . . . </tspan><tspan fill="var(--value)">postgres · docker · k8s · aws</tspan></text>
+<text x="616" y="200" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">tools.build:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . </tspan><tspan fill="var(--value)">agents · tool-calling · vector search</tspan></text>
+<text x="616" y="226" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">open.source:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . .  </tspan><tspan fill="var(--value)">orchestrator-inc · nvidia · cognee</tspan></text>
+<text x="616" y="266" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">languages.programming:</tspan><tspan fill="var(--muted)"> . . . . . . . </tspan><tspan fill="var(--value)">python, typescript, java, fastapi</tspan></text>
+<text x="616" y="292" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">interests.software:</tspan><tspan fill="var(--muted)"> . . . . . . </tspan><tspan fill="var(--value)">agents, rag, llms, distributed systems</tspan></text>
+<text x="616" y="318" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">focus.systems:</tspan><tspan fill="var(--muted)"> . . . . .  </tspan><tspan fill="var(--value)">reasoning · retrieval · planning · execution</tspan></text>
+<text x="616" y="356" fill="var(--muted)" xml:space="preserve">───────────────────────────────<tspan fill="var(--key)" font-weight="700"> contact </tspan>────────────────────────────────</text>
+<text x="616" y="388" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">portfolio:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . . . . . . . . . </tspan><tspan fill="var(--value)">yashmaheshwari.is-a.dev</tspan></text>
+<text x="616" y="414" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">linkedin:</tspan><tspan fill="var(--muted)"> . . . . . . . . .  </tspan><tspan fill="var(--value)">linkedin.com/in/yash-maheshwari-3b891a307</tspan></text>
+<text x="616" y="440" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">x:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </tspan><tspan fill="var(--value)">YashMah11</tspan></text>
+<text x="616" y="466" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">email:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . . . . . . . .  </tspan><tspan fill="var(--value)">yashmaheshwari8983@gmail.com</tspan></text>
+<text x="616" y="504" fill="var(--muted)" xml:space="preserve">─────────────────────────<tspan fill="var(--key)" font-weight="700"> github stats · live </tspan>──────────────────────────</text>
+<text x="616" y="536" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">repos:</tspan><tspan fill="var(--muted)"> . . . . </tspan><tspan fill="var(--value)">61 {contributed: 4}</tspan><tspan fill="var(--muted)"> | </tspan><tspan fill="var(--key)">stars:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . . .  </tspan><tspan fill="var(--value)">12</tspan></text>
+<text x="616" y="562" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">commits (year):</tspan><tspan fill="var(--muted)"> . . . . . . .  </tspan><tspan fill="var(--value)">412</tspan><tspan fill="var(--muted)"> | </tspan><tspan fill="var(--key)">followers:</tspan><tspan fill="var(--muted)"> . . . . . . . . . .  </tspan><tspan fill="var(--value)">23</tspan></text>
+<text x="616" y="588" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">merged PRs:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . </tspan><tspan fill="var(--value)">18</tspan><tspan fill="var(--muted)"> | </tspan><tspan fill="var(--key)">default commits:</tspan><tspan fill="var(--muted)"> . . . . . . . </tspan><tspan fill="var(--value)">689</tspan></text>
+<text x="616" y="614" xml:space="preserve"><tspan fill="var(--muted)">. </tspan><tspan fill="var(--key)">github LoC:</tspan><tspan fill="var(--muted)"> . . . . . . . . . . . . . . . .  </tspan><tspan fill="var(--value)">184,320 (</tspan><tspan fill="var(--plus)">+201.4K</tspan><tspan fill="var(--value)">, </tspan><tspan fill="var(--minus)">-17.1K</tspan><tspan fill="var(--value)">)</tspan></text>
+</svg>
