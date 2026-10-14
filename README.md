@@ -27,9 +27,9 @@ B.Tech CSE (Data Science) '27 @ Manipal University Jaipur — building systems t
 
 | build | what it does | stack |
 |---|---|---|
-| **Argus** | autonomous financial-investigation CLI — generalized ingestion, data-quality validation, LLM investigation | `TypeScript` `LangGraph.js` `Bun` `Ink` |
-| **Jasper Finance** | multi-step research agent — tool calling, state machines, human-in-the-loop, audit logging | `Python` `LangGraph` `FastAPI` `Docker` |
-| **ClaimWise** | document & claims intelligence — embeddings, vector search, reranking, structured extraction | `Python` `FastAPI` `Postgres` `Next.js` |
+| **Gatewise** | decision infrastructure for autonomous software engineering — typed System-1 models make every call, zero heuristic fallbacks, every decision auditable | `Python` `FastAPI` `Pydantic` `SQLAlchemy` |
+| **Jasper Finance** | autonomous research agent that plans, calls tools, checkpoints with a human, and logs everything | `Python` `LangGraph` `FastAPI` `Docker` |
+| **ClaimWise** | ingest → embed → retrieve → rerank → extract — turns messy claim documents into structured answers | `Python` `FastAPI` `Postgres` `Next.js` |
 
 ---
 
